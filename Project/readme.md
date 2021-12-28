@@ -32,3 +32,8 @@ https://analyticsindiamag.com/guide-to-multi-class-classification/
 https://scikit-learn.org/stable/modules/multiclass.html
 https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
 https://towardsdatascience.com/implementing-naive-bayes-from-scratch-df5572e042ac
+
+## Kaggle Score: 
+
+![score](https://user-images.githubusercontent.com/64530938/147607370-827c4ee8-40aa-4303-bfec-29be450e310c.jpeg)
+
