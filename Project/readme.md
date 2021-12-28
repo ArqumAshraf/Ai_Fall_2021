@@ -30,3 +30,5 @@ Though each algorithms accuracy ccan be varied by the splitting ratio and over t
 ## References used:
 https://analyticsindiamag.com/guide-to-multi-class-classification/
 https://scikit-learn.org/stable/modules/multiclass.html
+https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
+https://towardsdatascience.com/implementing-naive-bayes-from-scratch-df5572e042ac
