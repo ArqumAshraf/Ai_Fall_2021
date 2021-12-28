@@ -1,5 +1,4 @@
-
-#Project Report
+##Project Report
 
 The approach to the task was by throroughly study and implementation to each algorithm assigned by the instructor.
 
